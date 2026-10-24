@@ -404,3 +404,6 @@ Nothing else in the framework is changed.
 
 <sub>Overdrive is an unofficial homebrew project and is not affiliated with or endorsed by Sony
 Interactive Entertainment. PlayStation and PS5 are trademarks of Sony Interactive Entertainment.</sub>
+
+
+<!-- Automated fix for issue #111: Unable to resume / start a new download after download error -->
